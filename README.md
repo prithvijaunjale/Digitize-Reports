@@ -10,7 +10,7 @@ Digitization of these reports enables faster verification and provides other fun
 2. Text Recognition using [PyTesseract](https://pypi.org/project/pytesseract/).
 3. Processing the data & displaying the report in a tabular format. Along with 'HIGH' / 'LOW' indication.
 4. Storage of reports in a MongoDB database using [PyMongo](https://pypi.org/project/pymongo/).
-5. Using the [Pandas](https://pypi.org/project/pandas/) to produce a trend chart based on previous reports.
+5. Using the [Pandas](https://pypi.org/project/pandas/) library to produce a trend chart based on previous reports.
 
 ## Future Updates:
 1. Verification of MediClaim by comparison with Health Check Parameters.
