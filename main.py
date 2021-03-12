@@ -532,7 +532,7 @@ def table_uploaded():
             s.starttls()
 
             # Authentication
-            s.login(fromaddr, "googlepw@160521120510")
+            s.login(fromaddr, "<password>")
 
             # Converts the Multipart msg into a string
             text = msg.as_string()
